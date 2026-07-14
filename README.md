@@ -1,6 +1,8 @@
 # Automated Mortgage Underwriting System
 
-An Agentic AI Multi‑Agent Workflow for Automated Mortgage Underwriting
+An Agentic AI Multi‑Agent Workflow for Automated Mortgage Underwriting.
+Built as part of the Johns Hopkins University – Advanced Agentic AI Course.
+
 
 ## Project Overview
 
