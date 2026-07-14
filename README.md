@@ -1,9 +1,10 @@
-# Senior-Mortgage-Underwriting-System
+# Automated Mortgage Underwriting System
+
 An Agentic AI Multi‑Agent Workflow for Automated Mortgage Underwriting
 
 ## Project Overview
 
-The Senior Mortgage Underwriting System is an Agentic AI–powered multi‑agent workflow designed to automate and enhance the mortgage underwriting process. Built using LangGraph, LangChain, and OpenAI GPT‑4o‑mini, this system demonstrates how intelligent agents can collaborate to evaluate loan applications with consistency, transparency, and regulatory compliance.
+The Automated Mortgage Underwriting System is an Agentic AI–powered multi‑agent workflow designed to automate and enhance the mortgage underwriting process. Built using LangGraph, LangChain, and OpenAI GPT‑4o‑mini, this system demonstrates how intelligent agents can collaborate to evaluate loan applications with consistency, transparency, and regulatory compliance.
 
 Traditional mortgage underwriting is often time-consuming, document-heavy, inconsistent, and expensive. This AI-powered system addresses these challenges by:
 
@@ -42,7 +43,7 @@ Coordination Agents:
   -  Decision Agent – final underwriting decision
 
 A LangGraph state machine coordinates agent interactions, ensuring deterministic and auditable execution.
-    (https://github.com/senthildorairaj/Senior-Mortgage-Underwriting-System/blob/main/System%20Architecture.png)
+    (https://github.com/senthildorairaj/Automated-Mortgage-Underwriting-System/blob/main/System%20Architecture.png)
 
 
 ## Technology Stack
@@ -58,8 +59,8 @@ A LangGraph state machine coordinates agent interactions, ensuring deterministic
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/senthildorairaj/Senior-Mortgage-Underwriting-System.git
-    cd Senior-Mortgage-Underwriting-System
+    git clone https://github.com/senthildorairaj/Automated-Mortgage-Underwriting-System.git
+    cd Automated-Mortgage-Underwriting-System
     ```
     
 
@@ -87,7 +88,7 @@ A LangGraph state machine coordinates agent interactions, ensuring deterministic
 
 ## Usage
 
-This project is best explored in a Jupyter Notebook or Google Colab environment. The `mortgage_underwriting_system.ipynb` notebook guides you through:
+This project is best explored in a Jupyter Notebook or Google Colab environment. The `Automated_Mortgage_Underwriting_System.ipynb` notebook guides you through:
 
 - Defining data models and state management.
 - Building core components like utility tools, PII sanitization, and RAG policy retrieval.
